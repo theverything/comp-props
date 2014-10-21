@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Extend and object with computed properties",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theverything/comp-props"
+  },
   "scripts": {
     "test": "mocha"
   },
