@@ -1,0 +1,17 @@
+{
+  "name": "comp-props",
+  "version": "0.0.1",
+  "description": "Extend and object with computed properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "theverything (Jeffrey Horn)",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.5"
+  }
+}
