@@ -1,7 +1,6 @@
 var _ = require('lodash');
 var util = require('util');
 
-
 /**
  * Comp-props
  * extends an object/objects with new properties
